@@ -1,0 +1,53 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E701" />
+          <option value="E128" />
+          <option value="E741" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="turtle.setup" />
+          <option value="turtle.penup" />
+          <option value="turtle.circle" />
+          <option value="turtle.pendown" />
+          <option value="turtle.hideturtle" />
+          <option value="turtle.pensize" />
+          <option value="turtle.colormode" />
+          <option value="turtle.color" />
+          <option value="turtle.speed" />
+          <option value="turtle.pu" />
+          <option value="turtle.fd" />
+          <option value="turtle.seth" />
+          <option value="turtle.pd" />
+          <option value="turtle.begin_fill" />
+          <option value="turtle.goto" />
+          <option value="turtle.lt" />
+          <option value="turtle.end_fill" />
+          <option value="turtle.pencolor" />
+          <option value="turtle.setheading" />
+          <option value="python.dayTwo.TurtlePracticeDemo.circle" />
+          <option value="AI.IrisSVM.ML_Iris_SVM.y" />
+          <option value="AI.IrisSVM.ML_Iris_SVM.x_test" />
+          <option value="MachineLearning.ChapterThree.SoftmaxModel.SoftmaxModelImpl.matplotlib" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
